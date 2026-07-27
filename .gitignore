@@ -1,0 +1,5 @@
+OPEN_AI_API_KEY.txt
+Google_api_key.txt
+.ipynb_checkpoints/
+.env
+*.envgit rm --cached OPEN_AI_API_KEY.txt
