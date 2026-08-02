@@ -10,6 +10,8 @@ A lightweight conversational AI web app built with **LangChain**, **OpenAI**, an
 
 ---
 
+### 🔗 Live Demo → ... **[https://langchain-openai-chatbot-3.onrender.com/](https://langchain-openai-chatbot-3.onrender.com/)**
+
 ## 📌 Overview
 
 This project demonstrates how to integrate a Large Language Model (LLM) into an interactive web application using the modern GenAI stack:
